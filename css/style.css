@@ -7,17 +7,3 @@
 @import "./utilidades/componentes.css";
 
 @import "./home/introducao.css";
-
-/*tipografia*/
-
-.roboto {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.poppins {
-  font-family: "Poppins", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
